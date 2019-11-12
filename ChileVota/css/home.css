@@ -1,0 +1,21 @@
+  /*navbar*/
+  .navbar{
+    padding: .8rem;
+  }
+  .nav-link{
+    font-size: 1.0em !important;
+  }
+  /*carrusel*/
+  .carousel-caption{
+    padding-bottom: 10%;
+    text-align: center;
+  }
+  .carousel-caption h1{
+      color: brown;
+  }
+  .col-md-4{
+      color: white;
+  }
+  .col-12{
+      color: brown;
+  }
